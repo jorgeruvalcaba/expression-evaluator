@@ -1,0 +1,15 @@
+{
+  "name": "expression-evaluator",
+  "version": "1.0.0",
+  "description": "Yalo code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "Jorge Ruvalcaba",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "type": "module"
+}
